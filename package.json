@@ -1,0 +1,25 @@
+{
+  "name": "cc-plan",
+  "version": "1.0.0",
+  "description": "How often does Claude Code use plan mode? Session adoption rate, plan cycles per session, and per-project breakdown.",
+  "type": "module",
+  "bin": {
+    "cc-plan": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "developer-tools",
+    "analytics",
+    "plan-mode"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

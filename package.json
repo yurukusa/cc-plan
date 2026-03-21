@@ -1,5 +1,5 @@
 {
-  "name": "cc-plan",
+  "name": "@yurukusa/cc-plan",
   "version": "1.0.0",
   "description": "How often does Claude Code use plan mode? Session adoption rate, plan cycles per session, and per-project breakdown.",
   "type": "module",
